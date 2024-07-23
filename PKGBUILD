@@ -11,7 +11,7 @@ arch=(x86_64)
 license=(BSD)
 provides=("${pkgname%-git}" "xdg-desktop-portal-impl" "xdg-desktop-portal-wlr")
 conflicts=("${pkgname%-git}")
-depends=("libpipewire" "libinih" "qt6-base" "qt6-wayland" "wayland" "sdbus-cpp" "libdrm" "xdg-desktop-portal" "mesa" "hyprlang>=0.2.0")
+depends=("libpipewire" "libinih" "qt6-base" "qt6-wayland" "wayland" "sdbus-cpp" "libdrm" "xdg-desktop-portal" "mesa" "hyprlang-git")
 makedepends=("git" "wayland-protocols" "scdoc" "cmake")
 optdepends=(
   "grim: required for the screenshot portal to function"

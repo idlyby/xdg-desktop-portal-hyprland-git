@@ -18,7 +18,7 @@ pkgbase = xdg-desktop-portal-hyprland-git
 	depends = libdrm
 	depends = xdg-desktop-portal
 	depends = mesa
-	depends = hyprlang>=0.2.0
+	depends = hyprlang-git
 	optdepends = grim: required for the screenshot portal to function
 	optdepends = slurp: support for interactive mode for the screenshot portal; one of the built-in chooser options for the screencast portal
 	optdepends = hyprland: the Hyprland compositor
