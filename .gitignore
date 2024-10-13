@@ -1,3 +1,4 @@
-xdg-desktop-portal-hyprland*
-pkg
-src
+/*
+!/.gitignore
+!/.SRCINFO
+!/PKGBUILD
