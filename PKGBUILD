@@ -4,7 +4,7 @@
 _pkgname="xdg-desktop-portal-hyprland"
 pkgname="${_pkgname}-git"
 pkgver=1.3.6.r1.gfb9c8d66
-pkgrel=1
+pkgrel=2
 pkgdesc="xdg-desktop-portal backend for hyprland"
 url="https://github.com/hyprwm/xdg-desktop-portal-hyprland"
 arch=(x86_64)
