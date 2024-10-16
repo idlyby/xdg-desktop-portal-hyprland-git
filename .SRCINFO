@@ -9,6 +9,7 @@ pkgbase = xdg-desktop-portal-hyprland-git
 	makedepends = wayland-protocols
 	makedepends = scdoc
 	makedepends = cmake
+	makedepends = hyprland-protocols-git
 	depends = libpipewire
 	depends = libinih
 	depends = qt6-base
