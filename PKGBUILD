@@ -8,8 +8,8 @@ pkgrel=2
 pkgdesc="xdg-desktop-portal backend for hyprland"
 url="https://github.com/hyprwm/xdg-desktop-portal-hyprland"
 arch=(x86_64)
-license=(BSD)
-provides=("${pkgname%-git}" "xdg-desktop-portal-impl" "xdg-desktop-portal-wlr")
+license=(BSD-3-Clause)
+provides=("${pkgname%-git}" "xdg-desktop-portal-impl")
 conflicts=("${pkgname%-git}")
 depends=("libpipewire" "libinih" "qt6-base" "qt6-wayland" "wayland" "sdbus-cpp" "libdrm" "xdg-desktop-portal" "mesa" "hyprlang-git" "hyprwayland-scanner-git>=0.4.2" "hyprutils-git")
 makedepends=("git" "wayland-protocols" "scdoc" "cmake" "hyprland-protocols-git")
