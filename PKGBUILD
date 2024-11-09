@@ -1,4 +1,5 @@
-# Maintainer: ThatOneCalculator <kainoa@t1c.dev>
+# Maintainer: Edward Davis <idlyby@proton.me>
+# Contributor: ThatOneCalculator <kainoa@t1c.dev>
 # Based on the xdg-desktop-portal-wlr-git PKGBUILD
 
 _pkgname="xdg-desktop-portal-hyprland"
